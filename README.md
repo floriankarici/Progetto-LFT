@@ -1,2 +1,2 @@
-# Progetti-secondo-anno
-progetti universitari svolti in gruppo 
+# Progetto linguaggi formali e traduttori
+Esercizi svolti in gruppo 
