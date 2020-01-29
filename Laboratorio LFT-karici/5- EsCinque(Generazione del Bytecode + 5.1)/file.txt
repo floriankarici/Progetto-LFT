@@ -1,0 +1,4 @@
+/*Prova cicli e lettura da terminale di varibili*/
+read(a);
+case when (a>10) x :=a else x := 20;
+while (x>0)  {x := x-1; print(x)}
