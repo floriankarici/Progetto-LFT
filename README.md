@@ -1,2 +1,2 @@
-# Progetti-secondo-anno-
-progetti universitare svolti in gruppo 
+# Progetti-secondo-anno
+progetti universitari svolti in gruppo 
